@@ -25,3 +25,6 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 ![Chengrui's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiyacharley&show_icons=true&theme=radical)
 
 ![公众号QR-Code](https://raw.githubusercontent.com/aiyacharley/aiyacharley/main/figures/qrcode_for_gh_f80766d31892_258.jpg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

@@ -26,5 +26,7 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 
 ![公众号QR-Code](https://raw.githubusercontent.com/aiyacharley/aiyacharley/main/figures/qrcode_for_gh_f80766d31892_258.jpg)
 
+
+<!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

@@ -29,4 +29,7 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 
 <!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->

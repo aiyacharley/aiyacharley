@@ -30,8 +30,9 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 <!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
 ```text
-Other      1 hr 23 mins    ███████████████████▓░░░░░   78.64 % 
-Markdown   21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other      1 hr 34 mins    ███████████████████▒░░░░░   76.87 % 
+Markdown   22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
+HTML       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->

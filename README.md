@@ -22,11 +22,14 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 - 💬 Ask me about anything [here](https://github.com/aiyacharley/aiyacharley/issues) in English or Chinese.
 - 📫 How to reach me: You can follow my WeChat Official Accounts(微信公众号): [bioinfo_gogo(生信狗的日常)]
 
-![Chengrui's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiyacharley&show_icons=true&theme=radical)
+GitHub Statistics
+-------------------
+![Chengrui's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiyacharley&show_icons=true)
 
-![公众号QR-Code](https://raw.githubusercontent.com/aiyacharley/aiyacharley/main/figures/qrcode_for_gh_f80766d31892_258.jpg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiyacharley&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 
 
+##### Weekly development breakdown
 <!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
 ```text
@@ -37,3 +40,7 @@ CSV        4 mins          ▓░░░░░░░░░░░░░░░░�
 Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
+
+WeChat Official Accounts
+-------------------
+![公众号QR-Code](https://raw.githubusercontent.com/aiyacharley/aiyacharley/main/figures/qrcode_for_gh_f80766d31892_258.jpg)

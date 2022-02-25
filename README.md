@@ -27,6 +27,7 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 
 GitHub Statistics
 -------------------
+<!--https://zhuanlan.zhihu.com/p/454597068-->
 ![Chengrui's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiyacharley&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiyacharley&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)

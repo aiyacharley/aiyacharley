@@ -38,11 +38,11 @@ GitHub Statistics
 <!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
 ```text
-Other      2 hrs 36 mins   ████████████████████▓░░░░   82.59 % 
-Markdown   22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-HTML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-CSV        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other      3 hrs 48 mins   ██████████████████▒░░░░░░   73.10 % 
+CSV        55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Markdown   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+HTML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
 

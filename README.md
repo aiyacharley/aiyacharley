@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there 👋
+-------------------
 
 <!--
 **aiyacharley/aiyacharley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +22,8 @@ Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 - 🌱 I’m currently learning Python/R programming language and statistics.
 - 💬 Ask me about anything [here](https://github.com/aiyacharley/aiyacharley/issues) in English or Chinese.
 - 📫 How to reach me: You can follow my WeChat Official Accounts(微信公众号): [bioinfo_gogo(生信狗的日常)]
+
+![Chengrui's GitHub basic info](https://metrics.lecoq.io/aiyacharley?template=classic&config.timezone=Asia%2FShanghai)
 
 GitHub Statistics
 -------------------

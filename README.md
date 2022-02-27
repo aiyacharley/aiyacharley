@@ -37,13 +37,11 @@ GitHub Statistics
 ##### Weekly development breakdown
 <!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
+
 ```text
-Other      3 hrs 59 mins   ████████████████▒░░░░░░░░   64.90 % 
-CSV        55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Markdown   34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-YAML       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Python     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other      3 hrs 59 mins   ████████████████▒░░░░░░░░   64.90 %
 ```
+
 <!--END_SECTION:waka-->
 
 WeChat Official Accounts

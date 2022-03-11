@@ -34,7 +34,7 @@ GitHub Statistics
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiyacharley&theme=xcode)
 
-##### Weekly development breakdown
+📊 **Weekly development breakdown**
 <!--ref: https://github.com/athul/waka-readme-->
 <!--START_SECTION:waka-->
 

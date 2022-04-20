@@ -32,7 +32,7 @@ GitHub Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiyacharley&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiyacharley&theme=xcode)
+<!--![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiyacharley&theme=xcode)-->
 
 📊 **Weekly development breakdown**
 <!--ref: https://github.com/athul/waka-readme-->

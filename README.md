@@ -39,8 +39,8 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 45 mins    ████████████████░░░░░░░░░   63.68 %
-Other    1 hr            █████████░░░░░░░░░░░░░░░░   36.32 %
+Python   1 hr 45 mins    ██████████████████▒░░░░░░   73.27 %
+Other    38 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
 ```
 
 <!--END_SECTION:waka-->

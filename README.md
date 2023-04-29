@@ -39,7 +39,7 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```text
-Other   14 mins         █████████████████▓░░░░░░░   71.08 %
+Other    14 mins         ████████████▒░░░░░░░░░░░░   49.30 %
 ```
 
 <!--END_SECTION:waka-->

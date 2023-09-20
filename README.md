@@ -39,8 +39,7 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 hrs 52 mins   ████████████████████████▒   97.46 %
-Ezhil   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Other   7 hrs 12 mins   █████████████████████████   99.90 %
 CSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 

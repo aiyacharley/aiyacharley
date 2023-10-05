@@ -39,8 +39,7 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          ██████████████████████▓░░   90.36 %
-Python     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

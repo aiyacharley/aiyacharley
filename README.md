@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Chengrui Wang, a bioinformatician researcher and programmer from China:
 
-- 🔭 I’m currently working on [广州市妇女儿童医疗中心(Guangzhou women and children's medical center)](http://www.gzfezx.com/)
+- 🔭 I’m currently working on [广东省中医院(Guangdong Provincial Hospital of Chinese Medicine)](https://www.gdhtcm.com/)
 - 🌱 I’m currently learning Python/R programming language and statistics.
 - 💬 Ask me about anything [here](https://github.com/aiyacharley/aiyacharley/issues) in English or Chinese.
 - 📫 How to reach me: You can follow my WeChat Official Accounts(微信公众号): [bioinfo_gogo(生信狗的日常)]

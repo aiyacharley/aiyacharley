@@ -39,10 +39,10 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```txt
-Python               2 hrs 27 mins   ███████████████░░░░░░░░░░   59.83 %
-Other                1 hr 25 mins    ████████▓░░░░░░░░░░░░░░░░   34.53 %
-CSV                  11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-JSON with Comments   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python               2 hrs 27 mins   ████████████████▓░░░░░░░░   66.03 %
+Other                1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.74 %
+CSV                  11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+JSON with Comments   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->

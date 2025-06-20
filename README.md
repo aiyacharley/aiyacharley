@@ -39,8 +39,8 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 32 mins    ████████████████████████▓   98.37 %
-TSV     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Other   1 hr 36 mins    ███████████████████████▒░   92.79 %
+TSV     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->

@@ -39,11 +39,11 @@ GitHub Statistics
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 5 hrs 52 mins   ████████████████▒░░░░░░░░   64.82 %
-Python                1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-TSV                   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-CSV                   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other                 2 hrs 59 mins   █████████████░░░░░░░░░░░░   51.37 %
+Python                1 hr 41 mins    ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+TSV                   36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+CSV                   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
